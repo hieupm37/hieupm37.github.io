@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Hieu Phan
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Tôi là một lập trình viên C++ hiện đang làm việc tại [Cốc Cốc Browser][coccoc]. Vì muốn chia sẻ một số kinh nghiệm về C++ nên tôi đã lập ra blog này. Hy vọng các bạn tìm thấy một vài thông tin hữu ích ở đây.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Các bạn có thể theo dõi tôi trên {% include icon-twitter.html username=site.twitter_username %} hoặc {% include icon-github.html username=site.github_username %}.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[coccoc]: http://coccoc.com
