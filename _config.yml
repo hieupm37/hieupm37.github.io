@@ -28,3 +28,10 @@ theme: minima
 
 # Github repo of this site
 repository: hieupm37/hieupm37.github.io
+
+# Google Analytics
+google_analytics: UA-55956439-1
+
+# Disqus
+disqus:
+    shortname: hieupm37
