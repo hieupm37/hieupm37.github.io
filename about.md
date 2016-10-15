@@ -4,8 +4,8 @@ title: About Hieu Phan
 permalink: /about/
 ---
 
-Tôi là một lập trình viên C++ hiện đang làm việc tại [Cốc Cốc Browser][coccoc]. Vì muốn chia sẻ một số kinh nghiệm về C++ nên tôi đã lập ra blog này. Hy vọng các bạn tìm thấy một vài thông tin hữu ích ở đây.
+I'm a C++ developer working at [Cốc Cốc Browser][coccoc]. I created this blog for sharing my experiences with C++, and improving my English skills ;). If there is confusion in my posts, please leave comment.
 
-Các bạn có thể theo dõi tôi trên {% include icon-twitter.html username=site.twitter_username %} hoặc {% include icon-github.html username=site.github_username %}.
+You can follow me on {% include icon-twitter.html username=site.twitter_username %} or {% include icon-github.html username=site.github_username %}.
 
 [coccoc]: http://coccoc.com
