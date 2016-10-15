@@ -16,7 +16,7 @@
 title: Power of CREATION!
 email: hieupm37@me.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog về C++ và vài thứ linh tinh ...
+  Blog about C++ and programming
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hieupm37.github.io" # the base hostname & protocol for your site
 twitter_username: hieupm37
